@@ -1,0 +1,9 @@
+from Inputs import Inputs
+print("""
+  ####################################
+  # 🕺 GRAN COMPETENCIA DE BAILE 💃 #     
+  ####################################
+      
+  """)
+
+Inputs()
